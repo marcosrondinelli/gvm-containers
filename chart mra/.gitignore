@@ -1,0 +1,4 @@
+/*.tgz
+gvm/charts/*.tgz
+gvm/requirements.lock
+gvm/Chart.lock
